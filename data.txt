@@ -1,0 +1,52 @@
+GAMES WITH RANDOM HEURISITCS
+
+Games: 100
+Rollouts: 1
+Mean Points per Player: [6.3  5.68 8.03 8.66]
+Standard Deviation of Points per Player: [20.2536 19.4164 22.2941 20.7018]
+Win Proportion: [0.24 0.22 0.26 0.28]
+Average Turns per Game: 177.93
+Average Time per Game: 0.4297
+
+Games: 100
+Rollouts: 10
+Mean Points per Player: [31.72 30.98 30.76 31.77]
+Standard Deviation of Points per Player: [11.47   14.3569 14.0649 14.4228]
+Win Proportion: [0.23 0.27 0.28 0.22]
+Average Turns per Game: 166.73
+Average Time per Game: 3.7446
+
+Games: 100
+Rollouts: 100
+Mean Points per Player: [42.25 40.4  40.46 41.35]
+Standard Deviation of Points per Player: [17.2496 16.9346 15.1878 15.0794]
+Win Proportion: [0.29 0.22 0.23 0.26]
+Average Turns per Game: 151.5
+Average Time per Game: 34.3799
+
+
+GAMES WITH BASIC HEURISITCS
+
+Games: 100
+Rollouts: 1
+Mean Points per Player: [7.67 4.88 8.37 8.71]
+Standard Deviation of Points per Player: [19.1541 22.1171 20.8656 19.9014]
+Win Proportion: [0.23 0.28 0.23 0.26]
+Average Turns per Game: 177.73
+Average Time per Game: 1.241
+
+Games: 100
+Rollouts: 10
+Mean Points per Player: [29.76 33.83 31.88 30.67]
+Standard Deviation of Points per Player: [13.0722 13.8196 12.3274 14.3269]
+Win Proportion: [0.25 0.36 0.2  0.19]
+Average Turns per Game: 166.65
+Average Time per Game: 8.9007
+
+Games: 100
+Rollouts: 100
+Mean Points per Player: [43.64 40.23 45.95 39.46]
+Standard Deviation of Points per Player: [14.4683 14.6129 16.1024 14.7407]
+Win Proportion: [0.28 0.18 0.38 0.16]
+Average Turns per Game: 151.97
+Average Time per Game: 80.5205
